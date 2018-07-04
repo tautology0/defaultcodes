@@ -1,5 +1,6 @@
-##Yale locks
+# Yale locks
 |Model|Code|
+|-----|----|
 |YDM2106|0000|
 |YDM2107|?|
 |YDM3106|0000|

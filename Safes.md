@@ -1,0 +1,7 @@
+##Yale safes
+|Model|Code|
+|YLB/200/EB1|0000|
+|YSB/200/EB1|0000|
+|YSB/250/EB1|0000|
+|YSB/400/EB1|0000|
+|YSB/600/EB1|0000|
